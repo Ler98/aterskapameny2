@@ -1,0 +1,46 @@
+
+.navigation {
+    display: flex;
+    height: 50px;
+    button-radius: 5px;
+}
+  
+.option1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(143, 143, 145);
+    width: 25%;
+    color: rgb(10, 10, 10);
+    
+}
+
+.option2 {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    align-items: center;
+    color: white;
+    width: 25%;
+
+}
+
+.option3 {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    align-items: center;
+    color: white;
+    width: 25%;
+
+}
+
+.option4 {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    align-items: center;
+    color: white;
+    width: 25%;
+
+}
