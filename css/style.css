@@ -2,7 +2,9 @@
 .navigation {
     display: flex;
     height: 50px;
-    button-radius: 5px;
+    width: 90%;
+   
+    
 }
   
 .option1 {
